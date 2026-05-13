@@ -1,0 +1,1003 @@
+# Arquivo de teste gerado automaticamente
+# Total de registros: 1000
+
+DESFAZER
+ENTRADA,1,Rafael Azevedo,1
+ENTRADA,2,Felipe Rocha,4
+ENTRADA,3,Hugo Ferreira,5
+ENTRADA,4,Lucas Mendes,3
+DESFAZER
+ATENDER
+ATENDER
+ENTRADA,5,Elisa Martins,3
+ENTRADA,6,Quezia Santos,5
+ENTRADA,7,Paulo Teixeira,5
+ENTRADA,8,Rafael Azevedo,4
+ENTRADA,9,Thiago Oliveira,2
+ENTRADA,10,Rafael Azevedo,4
+DESFAZER
+ENTRADA,11,Paulo Teixeira,1
+ENTRADA,12,Elisa Martins,2
+ENTRADA,13,Mariana Gomes,4
+DESFAZER
+ENTRADA,14,Felipe Rocha,5
+ENTRADA,15,Rafael Azevedo,4
+ENTRADA,16,Lucas Mendes,2
+ENTRADA,17,Elisa Martins,3
+DESFAZER
+ENTRADA,18,Rafael Azevedo,3
+ATENDER
+ENTRADA,19,Isabela Carvalho,1
+ENTRADA,20,Paulo Teixeira,1
+ENTRADA,21,Felipe Rocha,3
+ATENDER
+DESFAZER
+DESFAZER
+ENTRADA,22,Paulo Teixeira,2
+DESFAZER
+ATENDER
+ENTRADA,23,Ana Silva,3
+ENTRADA,24,Nicolas Barbosa,5
+ENTRADA,25,Daniel Lima,3
+ATENDER
+ENTRADA,26,Olivia Ribeiro,5
+ENTRADA,27,Elisa Martins,5
+ENTRADA,28,Carla Souza,5
+ENTRADA,29,Elisa Martins,2
+ENTRADA,30,Gabriela Nunes,1
+ENTRADA,31,Paulo Teixeira,3
+ENTRADA,32,Gabriela Nunes,3
+ATENDER
+DESFAZER
+ENTRADA,33,Lucas Mendes,5
+DESFAZER
+DESFAZER
+ENTRADA,34,Karina Alves,5
+ATENDER
+ENTRADA,35,Jonas Pereira,3
+ENTRADA,36,Karina Alves,3
+ENTRADA,37,Quezia Santos,1
+ENTRADA,38,Rafael Azevedo,1
+ATENDER
+DESFAZER
+ENTRADA,39,Lucas Mendes,4
+ENTRADA,40,Sabrina Castro,1
+ENTRADA,41,Bruno Costa,5
+ENTRADA,42,Daniel Lima,2
+ENTRADA,43,Elisa Martins,2
+DESFAZER
+ENTRADA,44,Ana Silva,5
+ENTRADA,45,Sabrina Castro,2
+ENTRADA,46,Jonas Pereira,2
+ENTRADA,47,Ana Silva,4
+DESFAZER
+ENTRADA,48,Carla Souza,4
+ENTRADA,49,Carla Souza,1
+DESFAZER
+ENTRADA,50,Isabela Carvalho,3
+ENTRADA,51,Lucas Mendes,5
+ATENDER
+ENTRADA,52,Felipe Rocha,3
+ATENDER
+ATENDER
+ENTRADA,53,Nicolas Barbosa,4
+ENTRADA,54,Nicolas Barbosa,2
+ATENDER
+DESFAZER
+ENTRADA,55,Nicolas Barbosa,2
+DESFAZER
+ENTRADA,56,Ana Silva,4
+ENTRADA,57,Lucas Mendes,1
+ENTRADA,58,Sabrina Castro,4
+ENTRADA,59,Daniel Lima,1
+DESFAZER
+ENTRADA,60,Olivia Ribeiro,2
+ATENDER
+ENTRADA,61,Rafael Azevedo,4
+ATENDER
+ENTRADA,62,Thiago Oliveira,4
+ENTRADA,63,Jonas Pereira,2
+ATENDER
+ENTRADA,64,Elisa Martins,3
+ENTRADA,65,Carla Souza,2
+ENTRADA,66,Elisa Martins,4
+ENTRADA,67,Karina Alves,1
+ENTRADA,68,Rafael Azevedo,2
+ENTRADA,69,Hugo Ferreira,2
+DESFAZER
+ENTRADA,70,Sabrina Castro,1
+ENTRADA,71,Quezia Santos,3
+ENTRADA,72,Nicolas Barbosa,2
+ENTRADA,73,Karina Alves,5
+ENTRADA,74,Mariana Gomes,3
+ENTRADA,75,Quezia Santos,2
+ENTRADA,76,Rafael Azevedo,2
+ATENDER
+ENTRADA,77,Olivia Ribeiro,1
+ENTRADA,78,Karina Alves,2
+ENTRADA,79,Hugo Ferreira,2
+DESFAZER
+ENTRADA,80,Bruno Costa,1
+ATENDER
+ENTRADA,81,Gabriela Nunes,3
+ENTRADA,82,Hugo Ferreira,3
+ENTRADA,83,Quezia Santos,2
+ENTRADA,84,Karina Alves,1
+ENTRADA,85,Sabrina Castro,4
+ENTRADA,86,Daniel Lima,4
+DESFAZER
+DESFAZER
+DESFAZER
+ENTRADA,87,Jonas Pereira,3
+ENTRADA,88,Olivia Ribeiro,3
+ENTRADA,89,Thiago Oliveira,5
+ENTRADA,90,Bruno Costa,2
+ENTRADA,91,Thiago Oliveira,4
+ENTRADA,92,Felipe Rocha,1
+ENTRADA,93,Rafael Azevedo,1
+ATENDER
+ATENDER
+ENTRADA,94,Mariana Gomes,2
+ATENDER
+ATENDER
+ENTRADA,95,Gabriela Nunes,4
+DESFAZER
+ENTRADA,96,Sabrina Castro,4
+ENTRADA,97,Quezia Santos,1
+DESFAZER
+ENTRADA,98,Paulo Teixeira,1
+ENTRADA,99,Daniel Lima,2
+ENTRADA,100,Nicolas Barbosa,4
+ATENDER
+ENTRADA,101,Karina Alves,4
+ENTRADA,102,Daniel Lima,5
+ENTRADA,103,Olivia Ribeiro,5
+ENTRADA,104,Thiago Oliveira,3
+ATENDER
+DESFAZER
+ATENDER
+ENTRADA,105,Jonas Pereira,4
+ATENDER
+ENTRADA,106,Rafael Azevedo,2
+ENTRADA,107,Karina Alves,5
+ENTRADA,108,Ana Silva,5
+ENTRADA,109,Felipe Rocha,5
+ENTRADA,110,Carla Souza,4
+ENTRADA,111,Felipe Rocha,1
+ENTRADA,112,Quezia Santos,5
+ENTRADA,113,Isabela Carvalho,3
+ATENDER
+ENTRADA,114,Rafael Azevedo,5
+DESFAZER
+ENTRADA,115,Gabriela Nunes,4
+ENTRADA,116,Olivia Ribeiro,3
+ENTRADA,117,Nicolas Barbosa,1
+ENTRADA,118,Elisa Martins,4
+ENTRADA,119,Lucas Mendes,5
+ATENDER
+ATENDER
+ENTRADA,120,Quezia Santos,3
+ATENDER
+ENTRADA,121,Carla Souza,5
+DESFAZER
+ENTRADA,122,Mariana Gomes,5
+ENTRADA,123,Mariana Gomes,1
+ENTRADA,124,Hugo Ferreira,2
+ATENDER
+ENTRADA,125,Carla Souza,2
+ENTRADA,126,Mariana Gomes,1
+ENTRADA,127,Karina Alves,5
+ATENDER
+ENTRADA,128,Mariana Gomes,5
+ENTRADA,129,Olivia Ribeiro,1
+ENTRADA,130,Gabriela Nunes,5
+ENTRADA,131,Mariana Gomes,1
+ENTRADA,132,Nicolas Barbosa,2
+ATENDER
+DESFAZER
+ATENDER
+ATENDER
+ENTRADA,133,Elisa Martins,5
+ENTRADA,134,Rafael Azevedo,2
+ENTRADA,135,Isabela Carvalho,2
+ENTRADA,136,Gabriela Nunes,5
+ENTRADA,137,Paulo Teixeira,3
+ENTRADA,138,Gabriela Nunes,5
+ATENDER
+DESFAZER
+ENTRADA,139,Rafael Azevedo,2
+ATENDER
+ENTRADA,140,Olivia Ribeiro,1
+ATENDER
+ATENDER
+ENTRADA,141,Paulo Teixeira,4
+ENTRADA,142,Hugo Ferreira,2
+ENTRADA,143,Lucas Mendes,2
+ENTRADA,144,Thiago Oliveira,2
+ENTRADA,145,Bruno Costa,1
+ENTRADA,146,Sabrina Castro,1
+ENTRADA,147,Carla Souza,2
+ENTRADA,148,Hugo Ferreira,4
+DESFAZER
+ENTRADA,149,Nicolas Barbosa,5
+ATENDER
+ENTRADA,150,Rafael Azevedo,2
+ENTRADA,151,Bruno Costa,4
+ATENDER
+ENTRADA,152,Ana Silva,3
+ENTRADA,153,Hugo Ferreira,5
+ENTRADA,154,Nicolas Barbosa,1
+ENTRADA,155,Karina Alves,4
+ENTRADA,156,Bruno Costa,2
+ENTRADA,157,Jonas Pereira,3
+ENTRADA,158,Paulo Teixeira,1
+ENTRADA,159,Daniel Lima,2
+ENTRADA,160,Lucas Mendes,4
+ENTRADA,161,Gabriela Nunes,4
+ENTRADA,162,Hugo Ferreira,4
+ENTRADA,163,Carla Souza,5
+DESFAZER
+ENTRADA,164,Gabriela Nunes,5
+ENTRADA,165,Felipe Rocha,1
+ATENDER
+ENTRADA,166,Sabrina Castro,2
+ENTRADA,167,Thiago Oliveira,5
+ENTRADA,168,Isabela Carvalho,4
+ENTRADA,169,Sabrina Castro,1
+ENTRADA,170,Mariana Gomes,5
+ENTRADA,171,Sabrina Castro,1
+ENTRADA,172,Gabriela Nunes,1
+ENTRADA,173,Jonas Pereira,2
+ENTRADA,174,Daniel Lima,2
+ENTRADA,175,Isabela Carvalho,4
+ENTRADA,176,Sabrina Castro,4
+ATENDER
+ENTRADA,177,Elisa Martins,3
+ENTRADA,178,Isabela Carvalho,5
+ENTRADA,179,Sabrina Castro,3
+ATENDER
+ENTRADA,180,Ana Silva,5
+ATENDER
+DESFAZER
+ATENDER
+ENTRADA,181,Paulo Teixeira,2
+ENTRADA,182,Lucas Mendes,5
+DESFAZER
+ENTRADA,183,Bruno Costa,2
+ENTRADA,184,Gabriela Nunes,5
+ATENDER
+ENTRADA,185,Paulo Teixeira,5
+ENTRADA,186,Thiago Oliveira,4
+ENTRADA,187,Mariana Gomes,3
+ENTRADA,188,Thiago Oliveira,5
+ENTRADA,189,Olivia Ribeiro,2
+ENTRADA,190,Jonas Pereira,5
+ENTRADA,191,Carla Souza,4
+ENTRADA,192,Thiago Oliveira,3
+ENTRADA,193,Paulo Teixeira,4
+DESFAZER
+ENTRADA,194,Jonas Pereira,3
+ENTRADA,195,Bruno Costa,2
+ENTRADA,196,Ana Silva,2
+ENTRADA,197,Mariana Gomes,1
+ATENDER
+ATENDER
+ENTRADA,198,Thiago Oliveira,5
+ENTRADA,199,Quezia Santos,1
+ENTRADA,200,Thiago Oliveira,3
+DESFAZER
+ENTRADA,201,Sabrina Castro,5
+ENTRADA,202,Hugo Ferreira,3
+ATENDER
+DESFAZER
+ATENDER
+ATENDER
+ENTRADA,203,Mariana Gomes,2
+ENTRADA,204,Elisa Martins,4
+ENTRADA,205,Bruno Costa,4
+ENTRADA,206,Bruno Costa,5
+ENTRADA,207,Felipe Rocha,1
+ENTRADA,208,Quezia Santos,3
+ENTRADA,209,Elisa Martins,2
+ENTRADA,210,Sabrina Castro,5
+ENTRADA,211,Sabrina Castro,4
+ENTRADA,212,Ana Silva,3
+ENTRADA,213,Elisa Martins,4
+ENTRADA,214,Hugo Ferreira,4
+ENTRADA,215,Ana Silva,1
+ATENDER
+ENTRADA,216,Daniel Lima,5
+ATENDER
+ENTRADA,217,Lucas Mendes,2
+ENTRADA,218,Karina Alves,4
+ATENDER
+ENTRADA,219,Ana Silva,4
+ATENDER
+ENTRADA,220,Jonas Pereira,4
+ENTRADA,221,Quezia Santos,1
+ENTRADA,222,Carla Souza,2
+ATENDER
+ATENDER
+ENTRADA,223,Nicolas Barbosa,5
+ENTRADA,224,Carla Souza,5
+ENTRADA,225,Gabriela Nunes,3
+ATENDER
+ENTRADA,226,Nicolas Barbosa,3
+ENTRADA,227,Isabela Carvalho,2
+ATENDER
+ATENDER
+ENTRADA,228,Isabela Carvalho,5
+ENTRADA,229,Olivia Ribeiro,2
+ENTRADA,230,Elisa Martins,2
+ENTRADA,231,Felipe Rocha,5
+ENTRADA,232,Carla Souza,4
+ENTRADA,233,Elisa Martins,3
+ATENDER
+ATENDER
+ATENDER
+ENTRADA,234,Hugo Ferreira,5
+ATENDER
+DESFAZER
+ENTRADA,235,Daniel Lima,3
+ATENDER
+ENTRADA,236,Nicolas Barbosa,2
+ENTRADA,237,Paulo Teixeira,5
+ENTRADA,238,Daniel Lima,1
+ENTRADA,239,Daniel Lima,5
+ATENDER
+ENTRADA,240,Nicolas Barbosa,3
+ENTRADA,241,Carla Souza,4
+ENTRADA,242,Mariana Gomes,3
+DESFAZER
+ENTRADA,243,Thiago Oliveira,1
+ENTRADA,244,Nicolas Barbosa,5
+ATENDER
+ATENDER
+ENTRADA,245,Rafael Azevedo,2
+ENTRADA,246,Karina Alves,3
+DESFAZER
+ATENDER
+ENTRADA,247,Ana Silva,5
+ENTRADA,248,Paulo Teixeira,4
+ENTRADA,249,Rafael Azevedo,1
+ENTRADA,250,Sabrina Castro,3
+ENTRADA,251,Karina Alves,3
+ENTRADA,252,Lucas Mendes,2
+ENTRADA,253,Paulo Teixeira,5
+ENTRADA,254,Felipe Rocha,3
+ATENDER
+DESFAZER
+ATENDER
+DESFAZER
+ENTRADA,255,Elisa Martins,4
+ENTRADA,256,Daniel Lima,3
+ENTRADA,257,Lucas Mendes,3
+ENTRADA,258,Jonas Pereira,4
+ENTRADA,259,Jonas Pereira,1
+ENTRADA,260,Jonas Pereira,2
+ENTRADA,261,Thiago Oliveira,5
+DESFAZER
+ENTRADA,262,Olivia Ribeiro,5
+ENTRADA,263,Carla Souza,1
+ENTRADA,264,Karina Alves,2
+ENTRADA,265,Thiago Oliveira,5
+ENTRADA,266,Jonas Pereira,3
+ENTRADA,267,Gabriela Nunes,5
+ENTRADA,268,Carla Souza,2
+ENTRADA,269,Sabrina Castro,3
+ENTRADA,270,Rafael Azevedo,1
+ENTRADA,271,Lucas Mendes,3
+ENTRADA,272,Quezia Santos,4
+ENTRADA,273,Jonas Pereira,1
+ATENDER
+ENTRADA,274,Felipe Rocha,2
+ENTRADA,275,Isabela Carvalho,2
+ATENDER
+ENTRADA,276,Rafael Azevedo,3
+ATENDER
+ENTRADA,277,Daniel Lima,2
+ENTRADA,278,Isabela Carvalho,5
+ATENDER
+ENTRADA,279,Quezia Santos,4
+ENTRADA,280,Nicolas Barbosa,2
+ENTRADA,281,Jonas Pereira,4
+DESFAZER
+ENTRADA,282,Jonas Pereira,3
+ENTRADA,283,Paulo Teixeira,5
+ENTRADA,284,Mariana Gomes,1
+ENTRADA,285,Hugo Ferreira,5
+ENTRADA,286,Sabrina Castro,5
+ENTRADA,287,Elisa Martins,5
+DESFAZER
+ENTRADA,288,Bruno Costa,2
+ATENDER
+ENTRADA,289,Quezia Santos,4
+ENTRADA,290,Daniel Lima,3
+ATENDER
+DESFAZER
+ATENDER
+ENTRADA,291,Karina Alves,5
+ENTRADA,292,Rafael Azevedo,2
+ENTRADA,293,Thiago Oliveira,2
+ATENDER
+ENTRADA,294,Bruno Costa,2
+ENTRADA,295,Gabriela Nunes,5
+ENTRADA,296,Jonas Pereira,3
+ENTRADA,297,Lucas Mendes,2
+ENTRADA,298,Rafael Azevedo,2
+ATENDER
+ATENDER
+DESFAZER
+ATENDER
+ENTRADA,299,Mariana Gomes,3
+ENTRADA,300,Lucas Mendes,3
+ATENDER
+ATENDER
+ENTRADA,301,Rafael Azevedo,4
+ENTRADA,302,Thiago Oliveira,3
+ENTRADA,303,Nicolas Barbosa,2
+ENTRADA,304,Rafael Azevedo,2
+ATENDER
+ENTRADA,305,Paulo Teixeira,4
+ENTRADA,306,Daniel Lima,5
+ATENDER
+ENTRADA,307,Paulo Teixeira,4
+ENTRADA,308,Ana Silva,3
+ATENDER
+ENTRADA,309,Thiago Oliveira,4
+ATENDER
+ENTRADA,310,Isabela Carvalho,4
+ATENDER
+ENTRADA,311,Gabriela Nunes,2
+ATENDER
+ENTRADA,312,Hugo Ferreira,5
+DESFAZER
+ENTRADA,313,Elisa Martins,4
+ATENDER
+ENTRADA,314,Carla Souza,1
+ENTRADA,315,Isabela Carvalho,3
+ENTRADA,316,Jonas Pereira,1
+DESFAZER
+ENTRADA,317,Gabriela Nunes,3
+ENTRADA,318,Daniel Lima,3
+ATENDER
+ENTRADA,319,Bruno Costa,5
+ENTRADA,320,Carla Souza,1
+ENTRADA,321,Karina Alves,2
+ENTRADA,322,Lucas Mendes,5
+ENTRADA,323,Bruno Costa,1
+ENTRADA,324,Sabrina Castro,5
+ATENDER
+DESFAZER
+ATENDER
+ENTRADA,325,Hugo Ferreira,4
+ATENDER
+ATENDER
+ENTRADA,326,Rafael Azevedo,2
+ENTRADA,327,Karina Alves,1
+ENTRADA,328,Thiago Oliveira,5
+DESFAZER
+ENTRADA,329,Mariana Gomes,4
+ENTRADA,330,Elisa Martins,1
+ENTRADA,331,Sabrina Castro,2
+ENTRADA,332,Lucas Mendes,4
+ENTRADA,333,Ana Silva,5
+ENTRADA,334,Daniel Lima,5
+ENTRADA,335,Nicolas Barbosa,1
+ATENDER
+ATENDER
+ENTRADA,336,Paulo Teixeira,4
+ENTRADA,337,Lucas Mendes,5
+ATENDER
+ENTRADA,338,Olivia Ribeiro,4
+ENTRADA,339,Olivia Ribeiro,2
+ENTRADA,340,Gabriela Nunes,3
+ATENDER
+ENTRADA,341,Bruno Costa,1
+ATENDER
+DESFAZER
+DESFAZER
+ENTRADA,342,Karina Alves,2
+ENTRADA,343,Olivia Ribeiro,5
+ENTRADA,344,Paulo Teixeira,5
+ENTRADA,345,Hugo Ferreira,5
+ENTRADA,346,Ana Silva,1
+ENTRADA,347,Rafael Azevedo,4
+ENTRADA,348,Daniel Lima,4
+DESFAZER
+ATENDER
+ENTRADA,349,Sabrina Castro,5
+DESFAZER
+ENTRADA,350,Ana Silva,5
+ENTRADA,351,Elisa Martins,2
+DESFAZER
+ENTRADA,352,Isabela Carvalho,4
+ENTRADA,353,Carla Souza,4
+ATENDER
+ENTRADA,354,Karina Alves,3
+ENTRADA,355,Bruno Costa,1
+ENTRADA,356,Paulo Teixeira,5
+ENTRADA,357,Nicolas Barbosa,5
+ATENDER
+DESFAZER
+ENTRADA,358,Jonas Pereira,5
+ENTRADA,359,Ana Silva,2
+ENTRADA,360,Thiago Oliveira,5
+ENTRADA,361,Gabriela Nunes,3
+ENTRADA,362,Hugo Ferreira,4
+ENTRADA,363,Ana Silva,1
+ENTRADA,364,Nicolas Barbosa,5
+ENTRADA,365,Ana Silva,4
+ENTRADA,366,Jonas Pereira,3
+DESFAZER
+ENTRADA,367,Olivia Ribeiro,5
+ENTRADA,368,Bruno Costa,3
+ENTRADA,369,Isabela Carvalho,1
+ENTRADA,370,Karina Alves,2
+ENTRADA,371,Elisa Martins,2
+ENTRADA,372,Olivia Ribeiro,3
+ENTRADA,373,Carla Souza,2
+ENTRADA,374,Hugo Ferreira,1
+DESFAZER
+ENTRADA,375,Lucas Mendes,2
+ATENDER
+ENTRADA,376,Olivia Ribeiro,4
+ENTRADA,377,Ana Silva,4
+ENTRADA,378,Gabriela Nunes,2
+ENTRADA,379,Elisa Martins,3
+ENTRADA,380,Jonas Pereira,4
+ENTRADA,381,Rafael Azevedo,3
+ENTRADA,382,Thiago Oliveira,1
+ENTRADA,383,Felipe Rocha,2
+ENTRADA,384,Thiago Oliveira,2
+ENTRADA,385,Thiago Oliveira,3
+ATENDER
+DESFAZER
+ENTRADA,386,Rafael Azevedo,1
+ENTRADA,387,Daniel Lima,2
+ENTRADA,388,Gabriela Nunes,2
+ENTRADA,389,Hugo Ferreira,4
+ENTRADA,390,Felipe Rocha,1
+DESFAZER
+DESFAZER
+ENTRADA,391,Olivia Ribeiro,1
+ENTRADA,392,Nicolas Barbosa,1
+ENTRADA,393,Gabriela Nunes,1
+ATENDER
+ATENDER
+ENTRADA,394,Olivia Ribeiro,2
+ENTRADA,395,Sabrina Castro,2
+ENTRADA,396,Nicolas Barbosa,3
+ENTRADA,397,Mariana Gomes,5
+ENTRADA,398,Daniel Lima,5
+ENTRADA,399,Carla Souza,1
+ENTRADA,400,Quezia Santos,1
+ENTRADA,401,Daniel Lima,5
+ENTRADA,402,Sabrina Castro,4
+ENTRADA,403,Isabela Carvalho,5
+ENTRADA,404,Quezia Santos,4
+ENTRADA,405,Daniel Lima,5
+ENTRADA,406,Olivia Ribeiro,1
+ENTRADA,407,Jonas Pereira,1
+ENTRADA,408,Jonas Pereira,2
+ENTRADA,409,Olivia Ribeiro,5
+ENTRADA,410,Nicolas Barbosa,2
+ENTRADA,411,Paulo Teixeira,4
+DESFAZER
+ENTRADA,412,Rafael Azevedo,3
+DESFAZER
+ENTRADA,413,Paulo Teixeira,4
+ENTRADA,414,Gabriela Nunes,5
+ATENDER
+ENTRADA,415,Paulo Teixeira,1
+DESFAZER
+ENTRADA,416,Nicolas Barbosa,1
+ATENDER
+ENTRADA,417,Hugo Ferreira,1
+ENTRADA,418,Olivia Ribeiro,3
+ENTRADA,419,Isabela Carvalho,3
+ENTRADA,420,Karina Alves,3
+ENTRADA,421,Nicolas Barbosa,5
+DESFAZER
+ENTRADA,422,Hugo Ferreira,5
+ENTRADA,423,Jonas Pereira,1
+ENTRADA,424,Rafael Azevedo,1
+ENTRADA,425,Gabriela Nunes,4
+ENTRADA,426,Elisa Martins,1
+ATENDER
+ENTRADA,427,Felipe Rocha,1
+ATENDER
+ENTRADA,428,Bruno Costa,1
+DESFAZER
+ATENDER
+ATENDER
+ENTRADA,429,Jonas Pereira,2
+ENTRADA,430,Daniel Lima,5
+ENTRADA,431,Carla Souza,2
+ENTRADA,432,Karina Alves,5
+ENTRADA,433,Thiago Oliveira,4
+ENTRADA,434,Daniel Lima,4
+ENTRADA,435,Paulo Teixeira,5
+ENTRADA,436,Lucas Mendes,3
+ATENDER
+ENTRADA,437,Thiago Oliveira,3
+ENTRADA,438,Gabriela Nunes,5
+ENTRADA,439,Karina Alves,1
+ATENDER
+ENTRADA,440,Isabela Carvalho,5
+ATENDER
+DESFAZER
+ATENDER
+ENTRADA,441,Quezia Santos,3
+DESFAZER
+DESFAZER
+ENTRADA,442,Quezia Santos,5
+ENTRADA,443,Ana Silva,2
+ENTRADA,444,Karina Alves,5
+DESFAZER
+ENTRADA,445,Rafael Azevedo,3
+ENTRADA,446,Carla Souza,1
+ENTRADA,447,Lucas Mendes,4
+ENTRADA,448,Sabrina Castro,2
+ENTRADA,449,Ana Silva,2
+ENTRADA,450,Thiago Oliveira,5
+ATENDER
+ENTRADA,451,Olivia Ribeiro,3
+ATENDER
+ATENDER
+ENTRADA,452,Bruno Costa,1
+ENTRADA,453,Mariana Gomes,3
+ATENDER
+ENTRADA,454,Thiago Oliveira,4
+ENTRADA,455,Gabriela Nunes,1
+DESFAZER
+ENTRADA,456,Nicolas Barbosa,3
+ENTRADA,457,Jonas Pereira,5
+ATENDER
+ENTRADA,458,Gabriela Nunes,5
+ENTRADA,459,Jonas Pereira,5
+ENTRADA,460,Paulo Teixeira,3
+ATENDER
+ENTRADA,461,Nicolas Barbosa,3
+ATENDER
+DESFAZER
+DESFAZER
+ENTRADA,462,Paulo Teixeira,5
+ATENDER
+ATENDER
+ENTRADA,463,Ana Silva,4
+ENTRADA,464,Nicolas Barbosa,5
+ENTRADA,465,Paulo Teixeira,4
+ENTRADA,466,Rafael Azevedo,1
+ENTRADA,467,Carla Souza,3
+ENTRADA,468,Quezia Santos,2
+ENTRADA,469,Olivia Ribeiro,4
+ATENDER
+ATENDER
+ATENDER
+ENTRADA,470,Felipe Rocha,4
+ATENDER
+ENTRADA,471,Olivia Ribeiro,4
+DESFAZER
+ENTRADA,472,Paulo Teixeira,1
+ENTRADA,473,Sabrina Castro,1
+ENTRADA,474,Daniel Lima,5
+ENTRADA,475,Thiago Oliveira,3
+ENTRADA,476,Thiago Oliveira,3
+ENTRADA,477,Nicolas Barbosa,2
+ATENDER
+ENTRADA,478,Felipe Rocha,4
+ATENDER
+ENTRADA,479,Sabrina Castro,4
+ATENDER
+ENTRADA,480,Karina Alves,2
+ENTRADA,481,Lucas Mendes,4
+ENTRADA,482,Lucas Mendes,3
+ENTRADA,483,Elisa Martins,2
+ENTRADA,484,Paulo Teixeira,5
+ENTRADA,485,Thiago Oliveira,1
+ENTRADA,486,Elisa Martins,1
+ENTRADA,487,Isabela Carvalho,1
+ENTRADA,488,Carla Souza,2
+ENTRADA,489,Isabela Carvalho,3
+ENTRADA,490,Sabrina Castro,3
+ENTRADA,491,Felipe Rocha,1
+ENTRADA,492,Mariana Gomes,5
+ATENDER
+ATENDER
+ENTRADA,493,Jonas Pereira,5
+ENTRADA,494,Olivia Ribeiro,5
+ATENDER
+DESFAZER
+DESFAZER
+ENTRADA,495,Daniel Lima,2
+ENTRADA,496,Gabriela Nunes,4
+DESFAZER
+ENTRADA,497,Nicolas Barbosa,4
+ENTRADA,498,Bruno Costa,5
+ENTRADA,499,Elisa Martins,1
+ENTRADA,500,Felipe Rocha,4
+ATENDER
+ENTRADA,501,Olivia Ribeiro,4
+ENTRADA,502,Hugo Ferreira,4
+DESFAZER
+ENTRADA,503,Lucas Mendes,5
+ENTRADA,504,Quezia Santos,1
+ENTRADA,505,Ana Silva,2
+ENTRADA,506,Daniel Lima,4
+ENTRADA,507,Jonas Pereira,3
+ENTRADA,508,Karina Alves,5
+ENTRADA,509,Nicolas Barbosa,1
+ENTRADA,510,Jonas Pereira,5
+ENTRADA,511,Jonas Pereira,5
+ENTRADA,512,Thiago Oliveira,2
+ENTRADA,513,Lucas Mendes,4
+ENTRADA,514,Mariana Gomes,3
+ENTRADA,515,Sabrina Castro,3
+ENTRADA,516,Paulo Teixeira,5
+ENTRADA,517,Felipe Rocha,5
+ENTRADA,518,Rafael Azevedo,3
+ENTRADA,519,Rafael Azevedo,4
+ENTRADA,520,Carla Souza,1
+ENTRADA,521,Carla Souza,1
+ENTRADA,522,Sabrina Castro,1
+ENTRADA,523,Lucas Mendes,1
+ATENDER
+ENTRADA,524,Hugo Ferreira,2
+ENTRADA,525,Hugo Ferreira,5
+ATENDER
+DESFAZER
+DESFAZER
+ATENDER
+ATENDER
+ENTRADA,526,Daniel Lima,3
+ENTRADA,527,Ana Silva,4
+ENTRADA,528,Rafael Azevedo,3
+DESFAZER
+ENTRADA,529,Ana Silva,2
+DESFAZER
+ENTRADA,530,Elisa Martins,3
+ENTRADA,531,Gabriela Nunes,4
+DESFAZER
+ENTRADA,532,Bruno Costa,2
+ENTRADA,533,Sabrina Castro,2
+ENTRADA,534,Olivia Ribeiro,2
+ENTRADA,535,Daniel Lima,1
+ENTRADA,536,Bruno Costa,3
+ENTRADA,537,Hugo Ferreira,5
+ATENDER
+ENTRADA,538,Carla Souza,3
+ENTRADA,539,Bruno Costa,3
+ENTRADA,540,Paulo Teixeira,5
+ENTRADA,541,Carla Souza,5
+ATENDER
+ENTRADA,542,Sabrina Castro,1
+ENTRADA,543,Mariana Gomes,3
+ENTRADA,544,Daniel Lima,1
+ENTRADA,545,Rafael Azevedo,4
+ENTRADA,546,Daniel Lima,3
+ENTRADA,547,Thiago Oliveira,1
+ATENDER
+ATENDER
+DESFAZER
+DESFAZER
+ENTRADA,548,Hugo Ferreira,1
+ENTRADA,549,Nicolas Barbosa,1
+ENTRADA,550,Daniel Lima,3
+ENTRADA,551,Jonas Pereira,4
+ENTRADA,552,Quezia Santos,1
+ENTRADA,553,Carla Souza,4
+ENTRADA,554,Sabrina Castro,2
+ENTRADA,555,Karina Alves,2
+DESFAZER
+ATENDER
+ATENDER
+ENTRADA,556,Elisa Martins,4
+DESFAZER
+ENTRADA,557,Lucas Mendes,4
+ATENDER
+DESFAZER
+ENTRADA,558,Paulo Teixeira,5
+ENTRADA,559,Nicolas Barbosa,4
+DESFAZER
+DESFAZER
+ENTRADA,560,Quezia Santos,2
+ENTRADA,561,Carla Souza,4
+ENTRADA,562,Nicolas Barbosa,5
+DESFAZER
+ENTRADA,563,Ana Silva,4
+ENTRADA,564,Isabela Carvalho,5
+ENTRADA,565,Daniel Lima,5
+DESFAZER
+ENTRADA,566,Quezia Santos,3
+DESFAZER
+ATENDER
+ATENDER
+ENTRADA,567,Daniel Lima,1
+ENTRADA,568,Karina Alves,3
+ENTRADA,569,Quezia Santos,1
+ATENDER
+ATENDER
+ENTRADA,570,Jonas Pereira,2
+ENTRADA,571,Jonas Pereira,4
+ENTRADA,572,Lucas Mendes,4
+ENTRADA,573,Paulo Teixeira,4
+ENTRADA,574,Sabrina Castro,2
+DESFAZER
+ENTRADA,575,Thiago Oliveira,3
+DESFAZER
+ENTRADA,576,Mariana Gomes,1
+ENTRADA,577,Bruno Costa,5
+ENTRADA,578,Gabriela Nunes,4
+ENTRADA,579,Paulo Teixeira,4
+ENTRADA,580,Paulo Teixeira,3
+ENTRADA,581,Isabela Carvalho,2
+ENTRADA,582,Felipe Rocha,5
+ENTRADA,583,Gabriela Nunes,3
+ENTRADA,584,Elisa Martins,4
+ENTRADA,585,Elisa Martins,1
+ENTRADA,586,Jonas Pereira,3
+ENTRADA,587,Carla Souza,5
+ATENDER
+ENTRADA,588,Paulo Teixeira,3
+ENTRADA,589,Karina Alves,3
+ENTRADA,590,Nicolas Barbosa,4
+ATENDER
+ATENDER
+ENTRADA,591,Gabriela Nunes,2
+ATENDER
+ENTRADA,592,Rafael Azevedo,5
+ENTRADA,593,Quezia Santos,3
+ENTRADA,594,Elisa Martins,4
+ATENDER
+ENTRADA,595,Carla Souza,4
+ATENDER
+ENTRADA,596,Bruno Costa,3
+ENTRADA,597,Hugo Ferreira,3
+ATENDER
+ATENDER
+ENTRADA,598,Lucas Mendes,2
+ENTRADA,599,Jonas Pereira,4
+ENTRADA,600,Jonas Pereira,4
+DESFAZER
+DESFAZER
+ENTRADA,601,Elisa Martins,1
+ENTRADA,602,Isabela Carvalho,3
+ATENDER
+DESFAZER
+ENTRADA,603,Gabriela Nunes,5
+ENTRADA,604,Thiago Oliveira,4
+ENTRADA,605,Quezia Santos,1
+ENTRADA,606,Gabriela Nunes,1
+DESFAZER
+ATENDER
+ENTRADA,607,Daniel Lima,2
+ENTRADA,608,Paulo Teixeira,3
+ENTRADA,609,Rafael Azevedo,2
+ENTRADA,610,Mariana Gomes,3
+ENTRADA,611,Carla Souza,3
+ATENDER
+DESFAZER
+ATENDER
+ENTRADA,612,Bruno Costa,5
+ATENDER
+ENTRADA,613,Hugo Ferreira,2
+ENTRADA,614,Isabela Carvalho,4
+ENTRADA,615,Sabrina Castro,2
+ATENDER
+ATENDER
+ATENDER
+ENTRADA,616,Rafael Azevedo,5
+ENTRADA,617,Gabriela Nunes,5
+ENTRADA,618,Carla Souza,4
+ENTRADA,619,Rafael Azevedo,5
+ENTRADA,620,Hugo Ferreira,1
+ENTRADA,621,Elisa Martins,2
+DESFAZER
+ENTRADA,622,Carla Souza,4
+ENTRADA,623,Elisa Martins,4
+ENTRADA,624,Quezia Santos,3
+ATENDER
+ENTRADA,625,Karina Alves,4
+ENTRADA,626,Thiago Oliveira,3
+ENTRADA,627,Hugo Ferreira,4
+ENTRADA,628,Thiago Oliveira,4
+ENTRADA,629,Quezia Santos,2
+ENTRADA,630,Ana Silva,3
+ENTRADA,631,Daniel Lima,5
+ATENDER
+ENTRADA,632,Bruno Costa,5
+ENTRADA,633,Sabrina Castro,1
+ENTRADA,634,Isabela Carvalho,5
+ENTRADA,635,Sabrina Castro,5
+ENTRADA,636,Bruno Costa,2
+DESFAZER
+ATENDER
+ENTRADA,637,Ana Silva,4
+ENTRADA,638,Rafael Azevedo,1
+ENTRADA,639,Bruno Costa,1
+ENTRADA,640,Bruno Costa,1
+ENTRADA,641,Isabela Carvalho,5
+ENTRADA,642,Jonas Pereira,4
+DESFAZER
+DESFAZER
+ENTRADA,643,Carla Souza,5
+ATENDER
+ENTRADA,644,Paulo Teixeira,4
+ENTRADA,645,Thiago Oliveira,4
+ATENDER
+ENTRADA,646,Felipe Rocha,1
+ATENDER
+DESFAZER
+ENTRADA,647,Elisa Martins,3
+ENTRADA,648,Elisa Martins,5
+ATENDER
+ENTRADA,649,Ana Silva,1
+ENTRADA,650,Paulo Teixeira,5
+ENTRADA,651,Sabrina Castro,3
+ATENDER
+ENTRADA,652,Elisa Martins,5
+ATENDER
+ENTRADA,653,Elisa Martins,4
+ENTRADA,654,Hugo Ferreira,2
+ENTRADA,655,Nicolas Barbosa,3
+ENTRADA,656,Sabrina Castro,5
+ATENDER
+ENTRADA,657,Gabriela Nunes,4
+ENTRADA,658,Nicolas Barbosa,2
+DESFAZER
+DESFAZER
+ATENDER
+ENTRADA,659,Daniel Lima,1
+ATENDER
+ENTRADA,660,Isabela Carvalho,4
+ATENDER
+ENTRADA,661,Sabrina Castro,4
+ENTRADA,662,Felipe Rocha,5
+ENTRADA,663,Mariana Gomes,3
+ENTRADA,664,Olivia Ribeiro,2
+ENTRADA,665,Karina Alves,3
+ENTRADA,666,Daniel Lima,2
+ENTRADA,667,Hugo Ferreira,5
+ENTRADA,668,Felipe Rocha,5
+ATENDER
+DESFAZER
+ENTRADA,669,Mariana Gomes,2
+ENTRADA,670,Ana Silva,5
+ATENDER
+ENTRADA,671,Paulo Teixeira,2
+ATENDER
+ENTRADA,672,Bruno Costa,3
+ENTRADA,673,Lucas Mendes,5
+ENTRADA,674,Sabrina Castro,3
+ATENDER
+ENTRADA,675,Daniel Lima,3
+ENTRADA,676,Olivia Ribeiro,1
+ATENDER
+ENTRADA,677,Nicolas Barbosa,1
+ENTRADA,678,Lucas Mendes,5
+ENTRADA,679,Quezia Santos,4
+ATENDER
+ENTRADA,680,Quezia Santos,4
+DESFAZER
+ENTRADA,681,Thiago Oliveira,4
+ENTRADA,682,Quezia Santos,1
+ENTRADA,683,Carla Souza,1
+ENTRADA,684,Olivia Ribeiro,1
+ENTRADA,685,Olivia Ribeiro,3
+ATENDER
+ENTRADA,686,Isabela Carvalho,2
+ENTRADA,687,Carla Souza,2
+ATENDER
+DESFAZER
+ENTRADA,688,Felipe Rocha,4
+ENTRADA,689,Olivia Ribeiro,2
+DESFAZER
+ATENDER
+ENTRADA,690,Mariana Gomes,2
+ENTRADA,691,Hugo Ferreira,3
+ENTRADA,692,Elisa Martins,2
+ENTRADA,693,Isabela Carvalho,4
+ENTRADA,694,Gabriela Nunes,4
+ENTRADA,695,Isabela Carvalho,4
+ENTRADA,696,Bruno Costa,5

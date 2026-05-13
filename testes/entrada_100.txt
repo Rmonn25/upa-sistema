@@ -1,0 +1,103 @@
+# Arquivo de teste gerado automaticamente
+# Total de registros: 100
+
+DESFAZER
+ENTRADA,1,Rafael Azevedo,1
+ENTRADA,2,Felipe Rocha,4
+ENTRADA,3,Hugo Ferreira,5
+ENTRADA,4,Lucas Mendes,3
+DESFAZER
+ATENDER
+ATENDER
+ENTRADA,5,Elisa Martins,3
+ENTRADA,6,Quezia Santos,5
+ENTRADA,7,Paulo Teixeira,5
+ENTRADA,8,Rafael Azevedo,4
+ENTRADA,9,Thiago Oliveira,2
+ENTRADA,10,Rafael Azevedo,4
+DESFAZER
+ENTRADA,11,Paulo Teixeira,1
+ENTRADA,12,Elisa Martins,2
+ENTRADA,13,Mariana Gomes,4
+DESFAZER
+ENTRADA,14,Felipe Rocha,5
+ENTRADA,15,Rafael Azevedo,4
+ENTRADA,16,Lucas Mendes,2
+ENTRADA,17,Elisa Martins,3
+DESFAZER
+ENTRADA,18,Rafael Azevedo,3
+ATENDER
+ENTRADA,19,Isabela Carvalho,1
+ENTRADA,20,Paulo Teixeira,1
+ENTRADA,21,Felipe Rocha,3
+ATENDER
+DESFAZER
+DESFAZER
+ENTRADA,22,Paulo Teixeira,2
+DESFAZER
+ATENDER
+ENTRADA,23,Ana Silva,3
+ENTRADA,24,Nicolas Barbosa,5
+ENTRADA,25,Daniel Lima,3
+ATENDER
+ENTRADA,26,Olivia Ribeiro,5
+ENTRADA,27,Elisa Martins,5
+ENTRADA,28,Carla Souza,5
+ENTRADA,29,Elisa Martins,2
+ENTRADA,30,Gabriela Nunes,1
+ENTRADA,31,Paulo Teixeira,3
+ENTRADA,32,Gabriela Nunes,3
+ATENDER
+DESFAZER
+ENTRADA,33,Lucas Mendes,5
+DESFAZER
+DESFAZER
+ENTRADA,34,Karina Alves,5
+ATENDER
+ENTRADA,35,Jonas Pereira,3
+ENTRADA,36,Karina Alves,3
+ENTRADA,37,Quezia Santos,1
+ENTRADA,38,Rafael Azevedo,1
+ATENDER
+DESFAZER
+ENTRADA,39,Lucas Mendes,4
+ENTRADA,40,Sabrina Castro,1
+ENTRADA,41,Bruno Costa,5
+ENTRADA,42,Daniel Lima,2
+ENTRADA,43,Elisa Martins,2
+DESFAZER
+ENTRADA,44,Ana Silva,5
+ENTRADA,45,Sabrina Castro,2
+ENTRADA,46,Jonas Pereira,2
+ENTRADA,47,Ana Silva,4
+DESFAZER
+ENTRADA,48,Carla Souza,4
+ENTRADA,49,Carla Souza,1
+DESFAZER
+ENTRADA,50,Isabela Carvalho,3
+ENTRADA,51,Lucas Mendes,5
+ATENDER
+ENTRADA,52,Felipe Rocha,3
+ATENDER
+ATENDER
+ENTRADA,53,Nicolas Barbosa,4
+ENTRADA,54,Nicolas Barbosa,2
+ATENDER
+DESFAZER
+ENTRADA,55,Nicolas Barbosa,2
+DESFAZER
+ENTRADA,56,Ana Silva,4
+ENTRADA,57,Lucas Mendes,1
+ENTRADA,58,Sabrina Castro,4
+ENTRADA,59,Daniel Lima,1
+DESFAZER
+ENTRADA,60,Olivia Ribeiro,2
+ATENDER
+ENTRADA,61,Rafael Azevedo,4
+ATENDER
+ENTRADA,62,Thiago Oliveira,4
+ENTRADA,63,Jonas Pereira,2
+ATENDER
+ENTRADA,64,Elisa Martins,3
+ENTRADA,65,Carla Souza,2
+ENTRADA,66,Elisa Martins,4
